@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-subheadline: "4D Spatio-Temporal Models"
+subheadline: "Who are we and why are we doing this?"
 teaser: "Quisque blandit non tortor ornare rhoncus. Suspendisse finibus mollis cursus. Sed et tellus eget nulla tincidunt mollis vel in justo. Pellentesque vel eros ut leo venenatis tristique."
 permalink: "/info/"
 ---
