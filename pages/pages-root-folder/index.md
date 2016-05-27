@@ -1,7 +1,5 @@
 ---
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
+layout:  frontpage
 homepage: true
 ---
 Hello World!
