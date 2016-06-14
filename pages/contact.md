@@ -7,4 +7,4 @@ header:
   image_fullwidth: typewriter.jpg
 published: true
 ---
-Once we are up and running, we'll post our contact details here. **We should probably do that soon.**
+Once we are up and running, we'll post our contact details here. We should probably do that soon.
